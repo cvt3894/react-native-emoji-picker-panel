@@ -1,4 +1,12 @@
 # react-native-emoji-picker-panel
+
+The component has both iOS and Android support.
+
+![](screenshots/photo-browser.gif)
+
+![](screenshots/screenshot-1.png)
+![](screenshots/screenshot-2.png)
+
 ### Installation 
 ```npm install react-native-emoji-picker-panel --save```
 ### Properties
