@@ -8,7 +8,7 @@ import React, { Component } from 'react'
 import {
   AppRegistry
 } from 'react-native'
-import EmojiPicker from './EmojiPicker'
+import EmojiPicker from 'react-native-emoji-picker-panel'
 export default class emoji extends Component {
   _emojiSelected (emoji) {
     console.log(emoji)
