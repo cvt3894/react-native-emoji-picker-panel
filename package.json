@@ -1,0 +1,19 @@
+{
+  "name": "react-native-emoji-picker-panel",
+  "version": "1.0.0",
+  "description": "emoji",
+  "main": "EmojiPicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "emoji-datasource": "^3.0.0",
+    "react-native-scrollable-tab-view": "^0.6.7",
+    "string.fromcodepoint": "^0.2.1"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "ThienCao",
+  "license": "ISC"
+}
